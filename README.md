@@ -1,7 +1,7 @@
 # @top-submissions/image-carousel
 
 [![npm version](https://img.shields.io/npm/v/@top-submissions/image-carousel.svg)](https://www.npmjs.com/package/@top-submissions/image-carousel)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight, reusable image carousel component built with vanilla JavaScript. Part of The Odin Project curriculum.
 
